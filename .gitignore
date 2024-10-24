@@ -1,0 +1,7 @@
+env
+output/**
+
+.ipynb_checkpoints
+.jupyter/desktop-workspaces
+.virtual_documents
+.jupyter
